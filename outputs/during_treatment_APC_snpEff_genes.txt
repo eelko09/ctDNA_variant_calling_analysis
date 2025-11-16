@@ -1,0 +1,15 @@
+# The following table is formatted as tab separated values. 
+#GeneName	GeneId	TranscriptId	BioType	variants_impact_LOW	variants_impact_MODERATE	variants_impact_MODIFIER	variants_effect_3_prime_UTR_variant	variants_effect_5_prime_UTR_premature_start_codon_gain_variant	variants_effect_5_prime_UTR_variant	variants_effect_downstream_gene_variant	variants_effect_intron_variant	variants_effect_missense_variant	variants_effect_non_coding_transcript_exon_variant	variants_effect_synonymous_variant	variants_effect_upstream_gene_variant
+APC	ENSG00000134982	ENST00000257430	protein_coding	6	1	9	1	0	0	0	8	1	0	6	0
+APC	ENSG00000134982	ENST00000502371	nonsense_mediated_decay	0	0	11	0	0	0	6	4	0	0	0	1
+APC	ENSG00000134982	ENST00000504915	protein_coding	2	0	8	0	0	0	5	2	0	0	2	1
+APC	ENSG00000134982	ENST00000505084	retained_intron	0	0	3	0	0	0	0	0	0	2	0	1
+APC	ENSG00000134982	ENST00000505350	nonsense_mediated_decay	1	0	3	0	1	1	0	1	0	1	0	0
+APC	ENSG00000134982	ENST00000507379	protein_coding	3	0	14	0	1	1	5	8	0	0	2	0
+APC	ENSG00000134982	ENST00000508376	protein_coding	6	1	9	1	0	0	0	8	1	0	6	0
+APC	ENSG00000134982	ENST00000508624	nonsense_mediated_decay	0	0	23	7	0	0	1	8	0	7	0	0
+APC	ENSG00000134982	ENST00000509732	protein_coding	1	0	2	0	1	1	0	1	0	0	0	0
+APC	ENSG00000134982	ENST00000512211	protein_coding	2	0	14	0	0	0	6	8	0	0	2	0
+CBX3P3	ENSG00000250045	ENST00000508108	processed_pseudogene	0	0	1	0	0	0	0	0	0	0	0	1
+CTC-554D6.1	ENSG00000258864	ENST00000520401	nonsense_mediated_decay	0	0	10	0	0	0	0	8	0	1	0	1
+RNU6-482P	ENSG00000212370	ENST00000391068	snRNA	0	0	1	0	0	0	1	0	0	0	0	0
