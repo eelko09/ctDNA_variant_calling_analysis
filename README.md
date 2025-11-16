@@ -5,4 +5,7 @@ This project contains a jupyter notebook with a pipeline for downloading fastq f
 Required files:
 Human genome (Homo_sapiens_assembly38.fasta) and known indel files (Mills_and_1000G_gold_standard.indels.hg38.vcf.gz and Mills_and_1000G_gold_standard.indels.hg38.vcf.gz.tbi) can be downloaded from https://console.cloud.google.com/storage/browser/genomics-public-data/resources/broad/hg38/v0/
 
+Annotated clinical variants from ClinVar can be downloaded from NCBI here:
+(https://www.ncbi.nlm.nih.gov/clinvar/)
+
 GTF file for gene annotations can be downloaded here: (gs://gatk-sv-resources-public/hg38/v0/sv-resources/resources/v1/gencode.v47.basic.protein coding.canonical.gtf)
